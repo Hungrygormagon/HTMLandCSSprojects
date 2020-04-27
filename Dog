@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Dogs are great</title>
+	<meta charset="utf-8">
+	</head>
+	<body>
+		<nav>
+			<a href=Cat>Cats</a>
+			<a href=Assignment>Home</a>
+			<a href=Dog_Photo>English Bull Terrier</a>
+		</nav>
+		<h1>Dogs are really cool too</h1>
+		<p>Maybe cooler than cats.</p>
+		<a href="https://www.youtube.com/watch?v=BkD2nN5275c">Funny dogs</a>
+		<h3>Thanks for visiting. Good bye.</h3>
+		<main>
+		</main>
+		
+	</body>
+	<footer>
+		<a href="Assignment">Home</a>
+		<p>made by Steven J. Carney</p>
+	</footer>
+</html>

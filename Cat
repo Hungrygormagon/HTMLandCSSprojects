@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+	<title>Cats are great</title>
+	<meta charset="utf-8">
+	</head>
+	<body>
+		<nav>
+			<a href=Assignment>Home</a>
+			<a href=Dog>Dogs</a>
+			<a href=Dog_Photo>English Bull Terrier</a>
+		</nav>
+		<h1>CATS ARE COOL CATS ARE GREAT.</h1>
+		<p>We don't actually know about cats.</p>
+		<h3>Thanks for visiting. Good bye.</h3>
+		<main>
+			<p>What do you think about hairless cats?
+			They're very ugly.</p>
+			<img src="https://coleandmarmalade.com/wp-content/uploads/2018/04/bigstock-Bald-Hairless-Sphinx-Cat-Isola-203078503.jpg">
+		</main>
+		
+	</body>
+	<footer>
+		<a href="Assignment">Home</a>
+		<p>made by Steven J. Carney</p>
+	</footer>
+</html>
