@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+	<body>
+		<button onclick="my_first_function()">
+			Click me!
+		</button>
+		<p id="Irish"></p>
+	<script>
+		function my_first_function() {
+		var String = "Kiss me, I'm Irish!";
+		var result = String.fontcolo("green");
+		document.getElementById("Irish").innerHTML = 
+		result;
+		}
+	</script>
+	</body>
+</html>
