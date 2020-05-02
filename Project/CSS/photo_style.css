@@ -16,7 +16,7 @@ p{
     padding: 1px;
     border: 1px solid #021a40;
     background-color: #ffo;
-    box-shadow 2px 2px 1px rgba)0,0,0,0.7);
+    box-shadow 2px 2px 1px rgba(0,0,0,0.7);
 }
 
 .photocontainer {
@@ -74,5 +74,5 @@ p{
     transform-origin: 50% 50%;
 }
 .photo:hover img {
-    trasnfom: scale(1.1);
+    transfom: scale(1.1);
 }
