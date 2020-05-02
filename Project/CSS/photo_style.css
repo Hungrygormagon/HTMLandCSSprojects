@@ -15,15 +15,15 @@ p{
     border-radius: 8px;
     padding: 1px;
     border: 1px solid #021a40;
-    background-color: #ffo;
-    box-shadow 2px 2px 1px rgba(0,0,0,0.7);
+    background-color: #ffff00;
+    box-shadow: 2px 2px 1px rgba(0,0,0,0.7);
 }
 
 .photocontainer {
     text-align: center;
     margin: 15px auto;
-    width 800px;
-    height 1000px;
+    width: 800px;
+    height: 1000px;
 }
 .photocontainer img {
     max-width: 100%;
@@ -56,8 +56,8 @@ p{
 
 .photo-overlay {
     opacity: 0;
-    transition: opactiy .ls;
-    border-radius:10px;
+    transition: opactiy ls;
+    border-radius: 10px;
     cursor: pointer;
 }
 
@@ -74,5 +74,5 @@ p{
     transform-origin: 50% 50%;
 }
 .photo:hover img {
-    transfom: scale(1.1);
+    transform: scale(1.1);
 }
